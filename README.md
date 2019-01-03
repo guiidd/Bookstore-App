@@ -4,7 +4,7 @@ M(E)AN stack web application using RESTful API server. Permits user to add, dele
 Video tutorial from Traversy Media: https://www.youtube.com/watch?v=eB9Fq9I5ocs
 
 
-##Dependencies
+## Dependencies
 1. NodeJS
 ```Bash
 sudo apt install npm	
@@ -23,7 +23,7 @@ sudo npm install -g bower
 bower install --save bootstrap angular-route jquery
 ```
 
-##Usage
+## Usage
 1. Clone app 
 2. Start MongoDB - ```Bash sudo service mongod start```
 3. Start the application - ```Bash node app.js```
