@@ -24,8 +24,7 @@ bower install --save bootstrap angular-route jquery
 ```
 
 ## Usage
-1. Clone app 
+1. Clone app - `git clone https://github.com/puritatemcordis/Bookstore-App.git`
 2. Start MongoDB - ```Bash sudo service mongod start```
 3. Start the application - ```Bash node app.js```
 4. Browse to http://localhost:3000
-
